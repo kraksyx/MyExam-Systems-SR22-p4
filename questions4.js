@@ -7,7 +7,7 @@ const questions = [
   {
     "question": "158. Is it true that the mixture should be full rich and the boost pump on before landing?",
     "options": ["False", "Only during takeoff", "Only in emergency landings", "True"],
-    "correct": 3
+    "correct": 0
   },
   {
     "question": "159. What should you do immediately if you hear a pop sound and notice the door has popped open during takeoff?",
@@ -42,7 +42,7 @@ const questions = [
   {
     "question": "165. What is the maximum RPM drop for each magneto?",
     "options": ["150 RPM", "100 RPM", "200 RPM", "250 RPM"],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "166. What is the maximum RPM differential between the magnetos?",
@@ -72,7 +72,7 @@ const questions = [
   {
     "question": "171. What is the minimum CAPS deployment height above ground level (AGL)?",
     "options": ["700ft", "400ft", "500ft", "600ft"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "172. Which airspeed will allow the airplane to gain height in the least amount of time?",
@@ -87,12 +87,12 @@ const questions = [
   {
     "question": "174. What is the maximum student crosswind limit?",
     "options": ["10kts", "21kts", "15kts", "25kts"],
-    "correct": 1
+    "correct": 2
   },
   {
     "question": "175. What is the normal maximum crosswind limit?",
     "options": ["25kts", "15kts", "10kts", "21kts"],
-    "correct": 0
+    "correct": 3
   },
   {
     "question": "176. What is the maximum student tailwind limit?",
@@ -152,7 +152,7 @@ const questions = [
   {
     "question": "187. What type of restraint system do the front seats use?",
     "options": ["3-point safety harness", "Lap belt only", "4-point inflatable restraint system", "5-point harness system"],
-    "correct": 0
+    "correct": 2
   },
   {
     "question": "188. Where are the forward seat belts attached?",
@@ -222,7 +222,7 @@ const questions = [
   {
     "question": "201. When is the recirculation mode '0' not available?",
     "options": ["When the temperature is on the cold side", "When the cabin doors are open", "During landing", "During takeoff"],
-    "correct": 3
+    "correct": 0
   },
   {
     "question": "202. What does the recirculation mode do?",
@@ -260,3 +260,4 @@ const questions = [
     "correct": 2
   },
 ];
+
